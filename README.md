@@ -14,4 +14,4 @@ Course content:
 §  Query Optimization   
 §  Transactions & Concurrency Control  
 CS353 project repository can be found  <a href="https://github.com/efebeydogan01/CS353_eventica">here</a>.   
-HW4 is the programming assignment.  
+<a href="https://github.com/efebeydogan01/CS353/tree/main/HW4">HW4</a> is the programming assignment.  
