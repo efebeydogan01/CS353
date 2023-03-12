@@ -13,3 +13,4 @@ Course content:
 §  Query Processing   
 §  Query Optimization   
 §  Transactions & Concurrency Control  
+CS353 project repository can be found  <a href="https://github.com/efebeydogan01/CS353_eventica">here</a>.    
